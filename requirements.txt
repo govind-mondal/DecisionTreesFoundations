@@ -6,3 +6,5 @@ scikit-learn
 plotly-express
 scipy
 math
+os
+pprint
